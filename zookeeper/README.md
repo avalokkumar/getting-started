@@ -8,7 +8,7 @@ Extract the zookeeper in local directory
 Step 3:
 Go to `/zookeeper/bin/` directory and start the zookeeper server using below command
 
-*bin/zkServer.sh start*
+`bin/zkServer.sh start`
 
 Step 4:
 Connecting to zookeeper.
