@@ -1,6 +1,5 @@
 ## Basics of Web Servers and Nginx Introduction:
 ### 1. **Understanding Web Servers:**
-#### - Basics of how web servers function.
 
 ### Basics of How Web Servers Function:
 
